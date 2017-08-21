@@ -1,5 +1,6 @@
 
 public class Newsort {
+	
  void sort(int arr[])
 		    {
 		        int n = arr.length;
